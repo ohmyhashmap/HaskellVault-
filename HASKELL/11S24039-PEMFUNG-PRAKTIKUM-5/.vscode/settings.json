@@ -1,0 +1,8 @@
+{
+    "files.exclude": {
+    "*.hi": true,
+    "*.exe": true,
+    "*.o": true,
+    }
+    }
+    
