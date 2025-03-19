@@ -35,10 +35,4 @@ Jika ingin berkontribusi dengan menambahkan kode baru atau meningkatkan yang sud
 2. Buat branch baru untuk perubahan Anda.
 3. Lakukan pull request dengan deskripsi yang jelas.
 
-## Lisensi
-
-Repo ini menggunakan lisensi MIT. Silakan gunakan dan modifikasi sesuai kebutuhan.
-
----
-
 _Selamat ngoding dengan Haskell! 🚀_
